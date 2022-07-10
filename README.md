@@ -1,7 +1,7 @@
  <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="⚡️ Olá, sou Cesar. Bem Vindo ⚡️" src="./assets/gh-readme-header.png" /></a></p> 
 <br>
-⚡️- Hoje estudo front-end <br>
-⚡️ - estudando HTML e CSS <br>
+💼- Hoje estudo front-end <br>
+📚 - estudando HTML e CSS <br>
 🌗 - "O limite é a lua..." <br>
 
 <h6>⚡️ informações ⚡️ </h6>
