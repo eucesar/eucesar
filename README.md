@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @eucesar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-eucesar/eucesar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h5>🌩 Seja bem-vindo ! Eu sou o Cesar 🌩</h5> 
+⚡️- Hoje estudo front-end <br>
+⚡️ - estudando HTML e CSS <br>
+🌗 - "O limite é a lua..." <br>
