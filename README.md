@@ -4,7 +4,7 @@
 📚 - estudando HTML e CSS <br>
 🌗 - "O limite é a lua..." <br>
 
-<h5 align="center">⚡️ informações ⚡️ </h5>
+<h5 align="center">⚡️ informações ⚡️ </h5> <br>
 <div align="center">
   <a href="https://github.com/eucesar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eucesar&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/> 
