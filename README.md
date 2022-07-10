@@ -1,8 +1,8 @@
 <br>
  <p align="center"><a href="https://github.com/eucesar"><img width="50%" alt="⚡️ Olá, EU sou o Cesar Bem Vindo ⚡️" src="home.png" /></a></p> 
 <h3>💼- Hoje estudo front-end <br>
-📚 - estudando HTML e CSS <br>
-🌗 - "O limite é a lua..." </h3> 
+📚 - Estudando HTML e CSS <br>
+⚡ - Fun fact: I'm addicted to coffee..." </h3> 
 
 <h5 align="center">⚡️ INFORMAÇÃO ⚡️ </h5> <br>
 <div align="center">
