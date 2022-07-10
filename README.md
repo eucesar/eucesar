@@ -16,7 +16,7 @@
 <h6> ⚡️ LINGUAGENS QUE USO ⚡️</h6>
   <img align="center" alt="Cesar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cesar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="lightning.png">
+  <img align="right" alt="Cesar-pic" height="150" style="border-radius:50px;" src="lightning.png">
 </div>
  <br>
 
