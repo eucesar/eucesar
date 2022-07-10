@@ -1,4 +1,5 @@
-<h2>🌩 Bem-Vindo ! Eu sou o Cesar 🌩</h2> 
+ <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p> 
+<br>
 ⚡️- Hoje estudo front-end <br>
 ⚡️ - estudando HTML e CSS <br>
 🌗 - "O limite é a lua..." <br>
