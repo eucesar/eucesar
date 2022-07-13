@@ -2,7 +2,7 @@
  <p align="center"><a href="https://github.com/eucesar"><img width="50%" alt="⚡️ Olá, EU sou o Cesar Bem Vindo ⚡️" src="home.png" /></a></p> 
 <h3>💼 - Today front-end study <br>
 📚 - Studying HTML and CSS <br>
-⚡ - Fun fact: I'm addicted to coffee..."
+⚡ - Fun fact: I'm addicted to coffee..." <br>
 🇧🇷 - BRAZILIAN </h3> 
 
 <h5 align="center">⚡️ INFORMATION ⚡️ </h5> <br>
