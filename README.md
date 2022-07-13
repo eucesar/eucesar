@@ -3,8 +3,7 @@
 <h3>💼 - Today front-end study <br>
 📚 - Studying HTML and CSS <br>
 ⚡ - Fun fact: I'm addicted to coffee..."
-🇧🇷 - BRAZILIAN
-</h3> 
+🇧🇷 - BRAZILIAN </h3> 
 
 <h5 align="center">⚡️ INFORMATION ⚡️ </h5> <br>
 <div align="center">
