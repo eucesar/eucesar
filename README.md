@@ -1,11 +1,11 @@
 <br>
  <p align="center"><a href="https://github.com/eucesar"><img width="50%" alt="⚡️ Olá, EU sou o Cesar Bem-Vindo ⚡️" src="home.png" /></a></p> 
  
-<h2>About me: 💬 </h2>
- <h3>💼 - Today front-end study <br>
+<h3>About me: 💬 </h3>
+ <h4>💼 - Today front-end study <br>
 📚 - Studying HTML and CSS <br>
 ⚡ - Fun fact: I'm addicted to coffee..." <br>
-🇧🇷 - Brazilian </h3> 
+🇧🇷 - Brazilian </h4> 
 
 <h5 align="center">⚡️ INFORMATION ⚡️ </h5> <br>
 <div align="center">
