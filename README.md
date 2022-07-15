@@ -1,6 +1,6 @@
 <br>
  <p align="center"><a href="https://github.com/eucesar"><img width="50%" alt="⚡️ Olá, EU sou o Cesar Bem Vindo ⚡️" src="home.png" /></a></p> 
- ##About me:
+ <h5>About me:</h5>
 <h3>💼 - Today front-end study <br>
 📚 - Studying HTML and CSS <br>
 ⚡ - Fun fact: I'm addicted to coffee..." <br>
