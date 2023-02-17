@@ -3,7 +3,7 @@
  
 <h3>About me: 💬 </h3>
  <h4>💼 - Today front-end study <br>
-📚 - Studying HTML and CSS <br>
+📚 - Studying HTML,CSS and JavaScript <br>
 ⚡ - Fun fact: I'm addicted to coffee..." <br>
 🇧🇷 - Brazilian </h4> 
 
