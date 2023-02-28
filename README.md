@@ -28,7 +28,9 @@
   <img align="right" alt="Cesar-pic" height="150" style="border-radius:50px;" src="lightning.png">
 </div>
  <br>
-
+ <div align="center">
+  <img height="180em" src="/monitor.svg"/>
+</div>
 
 <div hover:"backdrop">
 <h6>📫 CONTACT 📫<h6>
