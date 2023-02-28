@@ -23,7 +23,12 @@
   <img align="right" alt="Cesar-pic" height="150" style="border-radius:50px;" src="lightning.png">
 </div>
  <br>
+ 
+<div align="center">
+  <img src="/monitor.svg" />
+</div>
 
+---
 <div hover:"backdrop">
 <h6>📫 CONTACT 📫<h6>
 <a href="https://www.linkedin.com/mwlite/in/cesar-iglesias-tecnologia"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
