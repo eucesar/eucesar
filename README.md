@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eucesar&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/> 
   <img width="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucesar&layout=compact&langs_count=7&theme=onedark"/>
 </div>
- <br>
+ 
 
 <div><br>
 <h6> 👨🏻‍💻 MY SKILLS 👨🏻‍💻 </h6>
