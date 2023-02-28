@@ -14,12 +14,7 @@
   <img width="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucesar&layout=compact&langs_count=7&theme=onedark"/>
 </div>
  <br>
- 
- <div align="center">
-  <img height="180em" src="/monitor.svg"/>
-</div>
 
- 
 <div><br>
 <h6> 👨🏻‍💻 MY SKILLS 👨🏻‍💻 </h6>
   <img align="center" alt="Cesar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -28,9 +23,7 @@
   <img align="right" alt="Cesar-pic" height="150" style="border-radius:50px;" src="lightning.png">
 </div>
  <br>
- <div align="center">
-  <img height="180em" src="/monitor.svg"/>
-</div>
+
 
 <div hover:"backdrop">
 <h6>📫 CONTACT 📫<h6>
