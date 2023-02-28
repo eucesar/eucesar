@@ -18,7 +18,7 @@
  <div align="center">
   <img height="180em" src="/monitor.svg"/>
 </div>
-<br>
+
  
 <div><br>
 <h6> 👨🏻‍💻 MY SKILLS 👨🏻‍💻 </h6>
