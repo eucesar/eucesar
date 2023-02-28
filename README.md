@@ -16,7 +16,7 @@
  <br>
  
  <div align="center">
-  <img src="/monitor.svg" />
+  <img src="monitor.svg" />
 </div>
 <br>
  
