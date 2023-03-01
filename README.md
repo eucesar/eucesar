@@ -33,17 +33,4 @@
 
 ![Snake animation](https://github.com/eucesar/eucesar/blob/output/github-contribution-grid-snake.svg)
 
-</div>
-<div alt="assinatura">
- 
-  .---------.
-  |.-------.|
-  ||>run#  ||
-  ||       ||
-  |"-------'|etf
-.-^---------^-.
-| ---~   AMiGA|
-"-------------'  𝒞𝑒𝓈𝒶𝓇 ℐ𝑔𝓁𝑒𝓈𝒾𝒶𝓈   
-⠀           ⠀⠀⠀⠀⠀⠀   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
- </div>
-
+**
