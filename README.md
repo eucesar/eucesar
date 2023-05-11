@@ -27,7 +27,7 @@
   <img align="center" alt="Cesar-C#" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
  <img align="center" alt="Cesar-C++" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
  <img align="center" alt="Cesar-PHP" height="100" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Cesar-PHP" height="40" width="50" src="./brmodel.png">
+  <img align="center" alt="Cesar-BrModel" height="40" width="50" src="./brmodel.png">
  
  
   <img align="right" alt="Cesar-pic" height="150" style="border-radius:50px;" src="lightning.png">
