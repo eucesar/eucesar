@@ -19,19 +19,21 @@
 <h6> 👨🏻‍💻 MY SKILLS 👨🏻‍💻 </h6>
   <img align="center" alt="Cesar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cesar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Cesar-JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Cesar-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
- <img align="center" alt="Cesar-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
- <img align="center" alt="Cesar-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
- <img align="center" alt="Cesar-Git" height="50" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Cesar-JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Cesar-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Cesar-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Cesar-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Cesar-Git" height="50" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Cesar-C#" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
- <img align="center" alt="Cesar-C++" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
- <img align="center" alt="Cesar-PHP" height="100" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Cesar-BrModel" height="40" width="50" src="./brmodel.png"><img align="center" alt="SQL-Power-Architect" height="50" width="50" src="./SQL-Power-Architect.png">
- 
- 
-  <img align="right" alt="Cesar-pic" height="150" style="border-radius:50px;" src="lightning.png">
+  <img align="center" alt="Cesar-C++" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Cesar-PHP" height="100" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Cesar-BrModel" height="40" width="50" src="./brmodel.png">
+  <img align="center" alt="SQL-Power-Architect" height="45" width="50" src="./SQL-Power-Architect.png">
 </div>
+ 
+  <div>
+  <img align="right" alt="Cesar-pic" height="150" style="border-radius:50px;" src="lightning.png">
+  </div>
  <br>
 
 <div hover:"backdrop">
