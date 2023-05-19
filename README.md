@@ -29,6 +29,8 @@
   <img align="center" alt="Cesar-PHP" height="100" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Cesar-BrModel" height="40" width="50" src="./brmodel.png">
   <img align="center" alt="SQL-Power-Architect" height="45" width="50" src="./SQL-Power-Architect.png">
+  <img align="center" alt="UniServerZ" height="45" width="70" src="./UniServerZ.png">
+  <img align="center" alt="mysql" height="45" width="70" src="./mysql.png">
 </div>
  
   <div>
