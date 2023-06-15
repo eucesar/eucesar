@@ -33,7 +33,7 @@
   <img align="center" alt="mysql" height="45" width="70" src="./mysql.png">
   <img align="center" alt="vb-net" height="35" width="60" src="./vb-net.png">
   <img align="center" alt="Cesar-MongoDB" height="100" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
-  <img align="center" alt="Cesar-NoSQL" height="100" width="110" src="./mongobooster-logo.png">
+  <img align="center" alt="Cesar-NoSQL" height="100" width="50" src="./mongobooster-logo.png">
 </div>
  
   <div>
