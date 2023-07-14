@@ -35,7 +35,7 @@
   <img align="center" alt="Cesar-MongoDB" height="100" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="Cesar-NoSQL" height="50" width="50" src="./mongobooster-logo.png">
   <img align="center" alt="Cesar-AndroidStudio" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
- <img align="center" alt="Cesar-ReactNative" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+ <img align="center" alt="Cesar-ReactNative" height="55" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
  <img align="center" alt="Cesar-SapAbap" height="40" width="60" src="SAP-ABAP.jpg">
 </div>
