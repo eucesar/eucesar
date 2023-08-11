@@ -51,6 +51,7 @@
 <a href = "https://api.whatsapp.com/send/?phone=5511973812325"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://discord.gg/zaTUuwswz6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
+
 ![Snake animation](https://github.com/eucesar/eucesar/blob/output/github-contribution-grid-snake.svg)
 
 **
