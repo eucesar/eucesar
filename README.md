@@ -2,8 +2,8 @@
  <p align="center"><a href="https://github.com/eucesar"><img width="50%" alt="⚡️ Olá, EU sou o Cesar Bem-Vindo ⚡️" src="home.png" /></a></p> 
  
 <h3>About me: 💬 </h3>
- <h4>💼 - Today Full Stackd study <br>
-📚 - Studying Programming languages <br>
+ <h4>💼 - Today Full Stackd Study <br>
+📚 - Studying Programming Languages <br>
 ⚡ - Fun fact: I'm addicted to coffee..." <br>
 🇧🇷 - Brazilian </h4> 
 
