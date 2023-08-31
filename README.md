@@ -2,8 +2,10 @@
  <p align="center"><a href="https://github.com/eucesar"><img width="50%" alt="⚡️ Olá, EU sou o Cesar Bem-Vindo ⚡️" src="home.png" /></a></p> 
  
 <h2 align="center">About me: 💬 </h2>
- <h3>💼 - Today Full Stackd Study <br>
+ <h3>
+💼 - Today Full Stackd Study <br>
 📚 - Studying Programming Languages <br>
+👨‍🎓 - Studying Information Systems (FIAP)
 ⚡ - Fun fact: I'm addicted to coffee..." <br>
 🇧🇷 - Brazilian </h3> 
 
