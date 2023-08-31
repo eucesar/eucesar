@@ -1,7 +1,7 @@
 <br>
  <p align="center"><a href="https://github.com/eucesar"><img width="50%" alt="⚡️ Olá, EU sou o Cesar Bem-Vindo ⚡️" src="home.png" /></a></p> 
  
-<h3>About me: 💬 </h3>
+<h2>About me: 💬 </h2>
  <h3>💼 - Today Full Stackd Study <br>
 📚 - Studying Programming Languages <br>
 ⚡ - Fun fact: I'm addicted to coffee..." <br>
@@ -16,7 +16,7 @@
 <br>
 
 <div><br>
-<h3> 👨🏻‍💻 MY SKILLS 👨🏻‍💻 </h3>
+<h3 align="center"> 👨🏻‍💻 MY SKILLS 👨🏻‍💻 </h3>
    <span><code><img align="center" alt="Cesar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code></span>
    <span><code><img align="center" alt="Cesar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code></span>
    <span><code><img align="center" alt="Cesar-JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></code></span>
