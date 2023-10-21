@@ -5,7 +5,7 @@
  <h3>
 💼 - Today Full Stackd Study <br>
 📚 - Studying Programming Languages (Alura) <br>
-👨‍🎓 - Studying Information Systems (FIAP) <br>
+👨‍🎓 - Studying Information Systems (FIAP - 3rd Semester) <br>
 ⚡ - Fun fact: I'm addicted to coffee..." <br>
 🇧🇷 - Brazilian </h3> 
 
