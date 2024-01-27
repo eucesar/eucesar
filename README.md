@@ -40,6 +40,7 @@
    <span><code><img align="center" alt="Cesar-ReactNative" height="55" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code></span>
    <span><code><img align="center" alt="Cesar-SapAbap" height="40" width="60" src="SAP-ABAP.jpg"></code></span>
    <span><code><img align="center" alt="Cesar-BootStrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code></span>
+   <span><code><img align="center" alt="Cesar-WixSite" height="40" width="40" src="wix.png"></code></span>
 </div>
  
   <div>
