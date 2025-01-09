@@ -3,7 +3,7 @@
  
 <h2 align="center">About me: 💬 </h2>
  <h3>
-💼 - Today Full Stackd Study <br>
+💼 - Today I'm Cybersecurity Intern at Bradesco <br>
 📚 - Studying Programming Languages (Alura) <br>
 👨‍🎓 - Studying Information Systems (FIAP - 5rd Semester) <br>
 ⚡ - Fun fact: I'm addicted to coffee..." <br>
