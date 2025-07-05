@@ -9,7 +9,7 @@
 ⚡ - Fun fact: I'm addicted to coffee..." <br>
 🇧🇷 - Brazilian </h3> 
 
-<h2 align="center">⚡️ INFORMATION ⚡️ </h2> <br>
+<h2 align="center">⚡️ Information ⚡️ </h2> <br>
 <div align="center">
   <a href="https://github.com/eucesar">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=eucesar&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/> 
@@ -18,7 +18,7 @@
 <br>
 
 <div><br>
-<h2 align="center"> 👨🏻‍💻 MY SKILLS 👨🏻‍💻 </h2>
+<h2 align="center"> 👨🏻‍💻 My Skills 👨🏻‍💻 </h2>
    <span><code><img align="center" alt="Cesar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code></span>
    <span><code><img align="center" alt="Cesar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code></span>
    <span><code><img align="center" alt="Cesar-JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></code></span>
