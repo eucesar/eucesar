@@ -1,5 +1,5 @@
 <br>
- <p align="center"><a href="https://github.com/eucesar"><img width="50%" alt="⚡️ Olá, EU sou o Cesar Bem-Vindo ⚡️" src="home.png" /></a></p> 
+ <p align="center"><a href="https://github.com/eucesar"><img width="50%" alt="⚡️ Olá, EU sou o Cesar Bem-Vindo ⚡️" src="home.png" /></p> 
  
 <h2 align="center">💬 About me: 💬 </h2>
  <h3>
@@ -44,17 +44,6 @@ Digital Card - https://digital-card-eucesar.vercel.app <br>
    <span><code><img align="center" alt="Cesar-WixSite" height="40" width="40" src="wix.png"></code></span>
    <span><code><img align="center" alt="Cesar-Cisco" height="40" width="70" src="cisco.jpg"></code></span>
 </div>
- 
- <br>
 
-<div hover:"backdrop">
-<h2 align="center">📫 Contact 📫<h2>
-<a href="https://www.linkedin.com/mwlite/in/cesar-iglesias-tecnologia"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:cesaribneto.job@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://api.whatsapp.com/send/?phone=5511973812325"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://discord.gg/zaTUuwswz6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<br>
-
-![Snake animation](https://github.com/eucesar/eucesar/blob/output/github-contribution-grid-snake.svg)
 
 <br>
