@@ -45,9 +45,6 @@ Digital Card - https://digital-card-eucesar.vercel.app <br>
    <span><code><img align="center" alt="Cesar-Cisco" height="40" width="70" src="cisco.jpg"></code></span>
 </div>
  
-  <div>
-  <img align="right" alt="Cesar-pic" height="150" style="border-radius:50px;" src="lightning.png">
-  </div>
  <br>
 
 <div hover:"backdrop">
