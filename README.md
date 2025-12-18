@@ -5,11 +5,7 @@
   </a>
 </div>
 
-
-
-
-<br>
- <p align="center"><a href="https://github.com/eucesar"><img width="50%" alt="⚡️ Olá, EU sou o Cesar Bem-Vindo ⚡️" src="home.png" /></p> 
+ <p>ola</p> 
  
 <h2 align="center">💬 About me: 💬 </h2>
  <h3>
