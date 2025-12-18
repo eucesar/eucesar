@@ -74,8 +74,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-o
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucesar&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
-![snake gif](https://github.com/eucesar/eucesar/blob/output/github-contribution-grid-snake.svg)
-
 <h3 align="left">Connect with me!</h3>
 
 [![Email](https://img.shields.io/badge/Email-FF9F1A?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:cesaribneto.job@gmail.com)
