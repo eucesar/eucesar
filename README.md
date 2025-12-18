@@ -23,33 +23,28 @@ I'm Cesar Iglesias, an Information Systems student focused on cybersecurity, wit
 🇧🇷 Brazilian </h3>
 
 
-<div>
-<h2 align="center"> 🛡️ Cyber Seurity Skills 🛡️ </h2>
+<h2 align="center">🛡️ Cybersecurity Stack & SOC Tools 🛡️</h2>
 
-<span><code><img align="center" alt="Cesar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code></span>
-<span><code><img align="center" alt="Cesar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code></span>
-<span><code><img align="center" alt="Cesar-JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></code></span>
-<span><code><img align="center" alt="Cesar-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code></span>
-<span><code><img align="center" alt="Cesar-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code></span>
-<span><code><img align="center" alt="Cesar-Git" height="50" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code></span>
-<span><code><img align="center" alt="MySQL" height="45" width="70" src="./mysql.png"></code></span>
-<span><code><img align="center" alt="Android Studio" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"></code></span>
-<span><code><img align="center" alt="SAP ABAP" height="40" width="60" src="SAP-ABAP.jpg"></code></span>
-<span><code><img align="center" alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code></span>
-<span><code><img align="center" alt="Data Modeling / Azure SQL" height="45" width="45"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"></code></span>
-<span><code><img align="center" alt="Oracle SQL Developer" height="45" width="45"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"></code></span>
-<span><code><img align="center" alt="Docker" height="45" width="45"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"></code></span>
-<span><code><img align="center" alt="Flutter" height="45" width="45" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"></code></span>
+<p align="center">
+  <code><img src="./img-cyber/siem.png" height="45" alt="SIEM"/></code>
+  <code><img src="./img-cyber/radar.png" height="45" alt="IBM QRadar"/></code>
+  <code><img src="./img-cyber/sec ops.png" height="45" alt="SOC Operations"/></code>
+  <code><img src="./img-cyber/falcon-shield-red-darkred.png" height="45" alt="CrowdStrike Falcon"/></code>
+  <code><img src="./img-cyber/IPS.png" height="45" alt="IPS Telmix"/></code>
+  <code><img src="./img-cyber/ddos.png" height="45" alt="Anti-DDoS"/></code>
+  <code><img src="./img-cyber/upx.jpg" height="45" alt="UPX Anti-DDoS"/></code>
+  <code><img src="./img-cyber/f5.png" height="45" alt="F5 WAF"/></code>
+  <code><img src="./img-cyber/Cisco-Umbrella-Logo-1.png" height="45" alt="Cisco Umbrella"/></code>
+  <code><img src="./img-cyber/trend_micro.jpg" height="45" alt="Trend Micro"/></code>
+</p>
 
-</div>
 
-<div>
+</br>
+  
 <h2 align="center"> 👨🏻‍💻 Developer Skills 👨🏻‍💻 </h2>
 
+
+<p align="center">
 <span><code><img align="center" alt="Cesar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code></span>
 <span><code><img align="center" alt="Cesar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code></span>
 <span><code><img align="center" alt="Cesar-JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></code></span>
@@ -68,8 +63,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-ori
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"></code></span>
 <span><code><img align="center" alt="Flutter" height="45" width="45" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"></code></span>
+</p>
 
-</div>
+</br>
 
 <h2 align="center">⚡️ Information ⚡️ </h2> <br>
 <div align="center">
