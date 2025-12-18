@@ -23,7 +23,7 @@ I'm Cesar Iglesias, an Information Systems student focused on cybersecurity, wit
 🇧🇷 Brazilian </h3>
 
 <div>
-<h2 align="center"> 👨🏻‍💻 My Skills 👨🏻‍💻 </h2>
+<h2 align="center"> 👨🏻‍💻 Developer Skills 👨🏻‍💻 </h2>
 
 <span><code><img align="center" alt="Cesar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code></span>
 <span><code><img align="center" alt="Cesar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code></span>
