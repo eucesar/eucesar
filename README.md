@@ -67,7 +67,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-o
 
 </br>
 
-<h2 align="center">⚡️ Information ⚡️ </h2> <br>
+<h2 align="center">⚡️ Github Status ⚡️ </h2> <br>
 <div align="center">
   <a href="https://github.com/eucesar">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=eucesar&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/> 
