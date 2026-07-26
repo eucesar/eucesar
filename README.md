@@ -67,17 +67,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-o
 
 </br>
 
-<h2 align="center">⚡️ Github Stats ⚡️ </h2> <br>
-<div align="center">
-  <a href="https://github.com/eucesar">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=eucesar&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/> 
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eucesar&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 <h3 align="left">Connect with me!</h3>
 
 [![Email](https://img.shields.io/badge/Email-FF9F1A?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:cesaribneto.job@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF9F1A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/cesar-iglesias-tecnologia/)
-
 
 <br>
